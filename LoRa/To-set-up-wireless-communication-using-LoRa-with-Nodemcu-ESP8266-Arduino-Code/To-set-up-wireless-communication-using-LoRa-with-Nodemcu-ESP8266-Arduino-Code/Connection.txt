@@ -1,0 +1,13 @@
+Circuit Diagram
+
+LoRa			ESP8266
+
+GND		GND
+VCC or 3.3v	3.3v
+RST		D0
+DIO0		D1
+DIO1		D2
+SCK		D5
+MISO		D6
+MOSI		D7
+NSS		D8
